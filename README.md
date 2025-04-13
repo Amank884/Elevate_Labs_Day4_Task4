@@ -1,4 +1,3 @@
-# Elevate_Labs_Task3-2-
 # 🛍️ Retail Sales Dashboard - Tableau Project
 
 ## 📌 Task Overview
